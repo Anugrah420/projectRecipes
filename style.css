@@ -1,0 +1,22 @@
+  * { 
+    color: purple;
+  }
+
+  a {
+    color: green;
+  }
+
+  .heading{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+
+  }
+
+  #click{
+    background-color: grey;
+  }
+  /* descendant combinator */
+  /* typography basics and text-align */
